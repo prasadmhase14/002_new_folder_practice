@@ -2,5 +2,5 @@
 # Problem: Remove extra spaces between words.
 # sentence = "Python    is   easy"
 # clean_sentence = ' '.join(sentence.split())
-# print("Cleaned:", clean_sentence)
+# print("Cleaned:" clean_sentence)
 
